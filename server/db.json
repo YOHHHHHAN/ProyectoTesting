@@ -1,3 +1,20 @@
 {
-  "badges": []
+  "badges": [
+    {
+      "firstName": "YOHAN",
+      "lastName": "CARDENAS",
+      "email": "soyungatitomisifu@gmail.com",
+      "jobTitle": "class",
+      "twitter": "yohhhhan ",
+      "id": 1
+    },
+    {
+      "firstName": "Tata",
+      "lastName": "Guzman",
+      "email": "TANIAGUBA181@GMAIL.COM",
+      "jobTitle": "nada",
+      "twitter": "Narata",
+      "id": 2
+    }
+  ]
 }
